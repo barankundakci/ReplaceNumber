@@ -1,0 +1,7 @@
+C:\Users\Baran Kundakci\source\repos\PI Works Study\PI Works Study\bin\Debug\PI Works Study.exe.config
+C:\Users\Baran Kundakci\source\repos\PI Works Study\PI Works Study\bin\Debug\PI Works Study.exe
+C:\Users\Baran Kundakci\source\repos\PI Works Study\PI Works Study\bin\Debug\PI Works Study.pdb
+C:\Users\Baran Kundakci\source\repos\PI Works Study\PI Works Study\obj\Debug\PI Works Study.csprojAssemblyReference.cache
+C:\Users\Baran Kundakci\source\repos\PI Works Study\PI Works Study\obj\Debug\PI Works Study.csproj.CoreCompileInputs.cache
+C:\Users\Baran Kundakci\source\repos\PI Works Study\PI Works Study\obj\Debug\PI Works Study.exe
+C:\Users\Baran Kundakci\source\repos\PI Works Study\PI Works Study\obj\Debug\PI Works Study.pdb
